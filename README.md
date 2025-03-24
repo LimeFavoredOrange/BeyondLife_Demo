@@ -52,7 +52,7 @@ The prebuilt iOS Simulator version of BeyondLife is included in this repository.
 You can find the archive file at:
 
 ```
-IOS-Simulator/application.tar
+iOS-Simulator/application.tar
 ```
 
 ### 📂 Steps to Install:
@@ -60,7 +60,7 @@ IOS-Simulator/application.tar
 1. **Extract the tar file**:  
    In Terminal or Finder, decompress the archive to retrieve the `.app` bundle:
    ```bash
-   tar -xvf IOS-Simulator/application.tar
+   tar -xvf iOS-Simulator/application.tar
    ```
 
 2. **Launch your iOS Simulator**:  
