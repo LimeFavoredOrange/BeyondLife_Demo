@@ -12,6 +12,16 @@ This repository is dedicated to helping users run the app **locally**, starting 
 
 ---
 
+## Demo Video
+
+🎬 Watch a quick **BeyondLife** demonstration:
+
+(🔊 **Turn up the volume for the full experience—there's background music!** 🎶)
+
+https://github.com/user-attachments/assets/f86febd1-15be-4c5a-bfeb-838b4e7e32ac
+
+---
+
 ## ✨ Current Availability
 
 > ⚠️ As of now, **only iOS Simulator** is supported.  
@@ -38,34 +48,39 @@ To use this method, you must have:
 
 ## 📦 Download Prebuilt App
 
-Download the latest `.app` build here:
+The prebuilt iOS Simulator version of BeyondLife is included in this repository.
+You can find the archive file at:
 
-🔗 [Download iOS Simulator Build]()
+```
+IOS-Simulator/application.tar
+```
 
-1. Unzip the file to get:  
+### 📂 Steps to Install:
+
+1. **Extract the tar file**:  
+   In Terminal or Finder, decompress the archive to retrieve the `.app` bundle:
    ```bash
-   BeyondLifeDemo.app
+   tar -xvf IOS-Simulator/application.tar
    ```
 
-2. Move the `.app` to a convenient location (e.g. Desktop)
+2. **Launch your iOS Simulator**:  
+   You can open it via Xcode or run:
+   ```bash
+   open -a Simulator
+   ```
+
+3. **Drag and drop the `.app` into the simulator**:  
+   Simply drag the extracted `.app` file onto the open simulator window — it will install and launch automatically.
+
+> ✅ No compilation required — ideal for quick testing or previewing the UI flow.
 
 ---
 
 ## ▶️ Installation Guide (with Video)
 
 Prefer a visual guide?  
-🎬 Watch our short video tutorial:  
-👉 [How to Run BeyondLife on iOS Simulator]()
+👉 Watch our short video tutorial:  
 
-### Or follow these steps:
-
-1. Open your iOS Simulator from Xcode or via command:
-   ```bash
-   open -a Simulator
-   ```
-
-
-2. You should now see the BeyondLife app running in the simulator 🎉
 
 > If you encounter issues, see [Troubleshooting](#️-troubleshooting)
 
