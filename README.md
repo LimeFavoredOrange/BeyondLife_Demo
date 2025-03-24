@@ -2,7 +2,7 @@
 [![License](https://img.shields.io/badge/License-AGPL--3.0-blue)](../LICENSE)
 
 
-> 🍎 IOS Simulator
+> 🍎 iOS Simulator
 > [![Platform](https://img.shields.io/badge/Run%20on-iOS%20Simulator-blue)](#)
 > [![Build Type](https://img.shields.io/badge/Build-EAS%20Build-green)](https://docs.expo.dev/build/introduction/)
 
@@ -80,6 +80,8 @@ iOS-Simulator/application.tar
 
 Prefer a visual guide?  
 👉 Watch our short video tutorial:  
+
+https://github.com/user-attachments/assets/adbaec14-3cad-4792-868e-8d1b0b0151f5
 
 
 > If you encounter issues, see [Troubleshooting](#️-troubleshooting)
