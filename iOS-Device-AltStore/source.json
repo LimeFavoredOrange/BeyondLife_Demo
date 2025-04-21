@@ -1,0 +1,36 @@
+{
+    "name": "BeyondLife Source",
+    "subtitle": "BeyondLife - Posthumous Data Manager",
+    "description": "Install the BeyondLife app for secure posthumous data configuration.",
+    "iconURL": "https://raw.githubusercontent.com/LimeFavoredOrange/BeyondLife_Demo/main/iOS-Device-AltStore/assets/icon.png",
+    "website": "https://xinzhang-chen.github.io/BeyondLife-Landing-Page/",
+    "tintColor": "#028760",
+    "featuredApps": ["com.beyondlife.app"],
+    "apps": [
+      {
+        "name": "BeyondLife",
+        "bundleIdentifier": "com.beyondlife.app",
+        "developerName": "Xinzhang",
+        "subtitle": "Digital Will System",
+        "localizedDescription": "BeyondLife helps manage your digital legacy securely and privately.",
+        "iconURL": "https://raw.githubusercontent.com/LimeFavoredOrange/BeyondLife_Demo/main/iOS-Device-AltStore/assets/icon.png",
+        "tintColor": "#028760",
+        "screenshots": [
+          "https://raw.githubusercontent.com/LimeFavoredOrange/BeyondLife_Demo/main/iOS-Device-AltStore/assets/screenshot1.png",
+          "https://raw.githubusercontent.com/LimeFavoredOrange/BeyondLife_Demo/main/iOS-Device-AltStore/assets/screenshot2.png",
+          "https://raw.githubusercontent.com/LimeFavoredOrange/BeyondLife_Demo/main/iOS-Device-AltStore/assets/screenshot3.png"
+        ],
+        "versions": [
+          {
+            "version": "1.0.0",
+            "date": "2025-04-21T10:00:00-08:00",
+            "size": 25000000,
+            "downloadURL": "https://raw.githubusercontent.com/LimeFavoredOrange/BeyondLife_Demo/main/iOS-Device-AltStore/BeyondLife.ipa",
+            "localizedDescription": "Initial release of BeyondLife app.",
+            "minOSVersion": "15.0"
+          }
+        ]
+      }
+    ]
+  }
+  
