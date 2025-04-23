@@ -6,6 +6,11 @@
 > [![Platform](https://img.shields.io/badge/Run%20on-iOS%20Simulator-blue)](#)
 > [![Build Type](https://img.shields.io/badge/Build-EAS%20Build-green)](https://docs.expo.dev/build/introduction/)
 
+
+> 📱 TestFlight
+> [![Platform](https://img.shields.io/badge/Run%20on-TestFlight-blue)](https://testflight.apple.com/join/your-invite-code)
+> [![Device](https://img.shields.io/badge/Device-Real%20iOS%20Device-blueviolet)](#)
+
 Welcome to the official **local run guide** for [BeyondLife](), an Open-Source Digital Will Solution for Posthumous Data Management.
 
 This repository is dedicated to helping users run the app **locally**, starting with support for **iOS Simulator** on macOS.
@@ -25,7 +30,25 @@ https://github.com/user-attachments/assets/f86febd1-15be-4c5a-bfeb-838b4e7e32ac
 ## ✨ Current Availability
 
 > ⚠️ As of now, **only iOS Simulator** is supported.  
-> Additional platforms such as physical iOS devices or Android will be added soon.
+> Additional platforms such as Android will be added soon.
+
+---
+
+## 📱 Try on TestFlight (iOS) [Recommended]
+
+<img src="https://github.com/user-attachments/assets/c2dccd00-bc24-420e-b1d4-5cf714a7f571" alt="testflight-logo" width="200"/>
+
+
+Want to explore **BeyondLife** on your actual iPhone?  
+We now support **TestFlight** for a smoother, real-device experience.
+
+> 🧪 TestFlight is Apple's beta testing platform. No Mac or simulator setup required.
+
+### 🔗 Join the Beta:
+
+📲 [Tap here to install via TestFlight](https://testflight.apple.com/join/Sm1gFy5f)  
+(*Make sure TestFlight is installed on your device.*)
+
 
 ---
 
