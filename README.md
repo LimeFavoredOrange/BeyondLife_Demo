@@ -27,7 +27,7 @@ https://github.com/user-attachments/assets/f86febd1-15be-4c5a-bfeb-838b4e7e32ac
 
 ---
 
-## ✨ Current Availability
+## Current Availability
 
 > ⚠️ As of now, **only iOS Simulator** is supported.  
 > Additional platforms such as Android will be added soon.
@@ -74,16 +74,15 @@ To use this method, you must have:
 The prebuilt iOS Simulator version of BeyondLife is included in this repository.
 You can find the archive file at:
 
-```
-iOS-Simulator/application.tar
-```
+[Download iOS-Simulator/BeyondLife.tar.gz](https://github.com/LimeFavoredOrange/BeyondLife_Demo/blob/main/iOS-Simulator/BeyondLife.tar.gz)
 
-### 📂 Steps to Install:
+
+### Steps to Install:
 
 1. **Extract the tar file**:  
    In Terminal or Finder, decompress the archive to retrieve the `.app` bundle:
    ```bash
-   tar -xvf iOS-Simulator/application.tar
+   tar -xzvf iOS-Simulator/application.tar.gz
    ```
 
 2. **Launch your iOS Simulator**:  
@@ -92,7 +91,7 @@ iOS-Simulator/application.tar
    open -a Simulator
    ```
 
-3. **Drag and drop the `.app` into the simulator**:  
+3. **Drag and drop the `.app` file into the simulator**:  
    Simply drag the extracted `.app` file onto the open simulator window — it will install and launch automatically.
 
 > ✅ No compilation required — ideal for quick testing or previewing the UI flow.
